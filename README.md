@@ -1,6 +1,8 @@
 # Video bounding boxes creator
 Simple Qt5 app for tagging bounding boxes in video frames to create dataset for object detection
 
+![Alt text](Screen.png?raw=true "Preview")
+
 ## Usage
 pip install -r requirements.txt
 
